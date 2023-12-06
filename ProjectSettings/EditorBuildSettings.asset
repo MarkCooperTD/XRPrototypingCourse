@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Landing.unity
+    guid: fdd4e26186077cf449f822d71597acb2
+  - enabled: 1
+    path: Assets/GeniusCrate_Games/Kitchen_Set/Scenes/Kitchen_Dinning_set(interior).unity
+    guid: d67068f83822b4247976569d4361ae80
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ee8f95e9424e7164fa7ad160949578cd,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9e02a01cbda8c944eb3e4938b3fff830,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 92743a1297f07c24caf609a7f0207fd9,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 27218de92566653498ad4f05202d7c31,
+      type: 2}
