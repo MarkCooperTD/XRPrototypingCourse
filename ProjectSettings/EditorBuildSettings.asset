@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Landing.unity
     guid: fdd4e26186077cf449f822d71597acb2
   - enabled: 0
-    path: Assets/Scenes/Kitchen.unity
-    guid: d67068f83822b4247976569d4361ae80
-  - enabled: 0
     path: Assets/Samples/Meta XR Interaction SDK OVR Samples/59.0.0/Example Scenes/HandGrabExamples.unity
     guid: 39ae0e546b9edc0408d3b11c6a7c2814
   - enabled: 0
