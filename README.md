@@ -5,7 +5,7 @@ Meta XR All-in-One SDK
 
 https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657 
 
-It downloaded anything else needed once added
+It downloaded everything else it needed
  
 
 
